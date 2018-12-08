@@ -1,0 +1,13 @@
+com\bml\qa\base\testBase.class
+com\bml\qa\pages\manageUsersPage.class
+com\bml\qa\pages\forgotPasswordPage.class
+com\bml\qa\pages\UsersPage.class
+com\bml\qa\pages\bulkLeadUpdate.class
+com\bml\qa\pages\ipConfigurationPage.class
+com\bml\qa\pages\leadsPage.class
+com\bml\qa\util\databaseConnectUtil.class
+com\bml\qa\pages\dataMigration.class
+com\bml\qa\testData\readExcel.class
+com\bml\qa\pages\changePassword.class
+com\bml\qa\pages\loginPage.class
+com\bml\qa\util\testUtil.class

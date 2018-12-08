@@ -1,0 +1,1269 @@
+2018-08-22 15:45:33,870 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:45:34,131 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-22 15:45:35,367 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:46:08,718 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:46:10,058 - com.bml.qa.testScripts.loginPageTest -INFO - Logo verified Successfully
+2018-08-22 15:46:11,213 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:46:43,094 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:46:43,942 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-22 15:46:45,918 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:47:16,037 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:48:29,237 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:49:50,555 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:49:51,373 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-22 15:49:55,171 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:50:37,810 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:50:37,916 - com.bml.qa.testScripts.loginPageTest -INFO - SignIn button verified Successfully
+2018-08-22 15:50:38,988 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:51:34,992 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:51:41,363 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-22 15:51:43,593 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-22 15:52:33,780 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-22 15:52:34,291 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-22 15:52:37,009 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 14:56:49,749 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 14:56:51,000 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-24 14:56:52,299 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 14:59:18,499 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 14:59:18,598 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-24 14:59:19,438 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 14:59:43,616 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 14:59:43,707 - com.bml.qa.testScripts.loginPageTest -INFO - Logo verified Successfully
+2018-08-24 14:59:44,734 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:00:19,052 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:00:19,157 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-24 15:00:19,992 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:00:48,347 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:00:49,418 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:01:24,414 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:01:24,527 - com.bml.qa.testScripts.loginPageTest -INFO - Password field verified Successfully
+2018-08-24 15:01:25,486 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:02:07,605 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:02:08,178 - com.bml.qa.testScripts.loginPageTest -INFO - SignIn button verified Successfully
+2018-08-24 15:02:09,145 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:02:56,140 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:02:57,206 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:02:58,228 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:03:21,903 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:03:22,595 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:03:23,520 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:11:11,709 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:11:11,822 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-24 15:11:13,172 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:11:39,558 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:11:39,661 - com.bml.qa.testScripts.loginPageTest -INFO - Logo verified Successfully
+2018-08-24 15:11:40,655 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:12:10,676 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:12:10,794 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-24 15:12:11,728 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:12:46,784 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:12:49,953 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:13:20,528 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:13:20,635 - com.bml.qa.testScripts.loginPageTest -INFO - Password field verified Successfully
+2018-08-24 15:13:21,532 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:14:03,046 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:14:03,113 - com.bml.qa.testScripts.loginPageTest -INFO - SignIn button verified Successfully
+2018-08-24 15:14:03,954 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:14:32,972 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:14:34,072 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:14:35,684 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:15:04,751 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:15:05,695 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:15:06,710 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:20:29,386 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:20:29,470 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-24 15:20:29,545 - com.bml.qa.testScripts.loginPageTest -INFO - Logo verified Successfully
+2018-08-24 15:20:29,664 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-24 15:20:29,842 - com.bml.qa.testScripts.loginPageTest -INFO - Password field verified Successfully
+2018-08-24 15:20:29,907 - com.bml.qa.testScripts.loginPageTest -INFO - SignIn button verified Successfully
+2018-08-24 15:20:32,122 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:20:32,787 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:20:33,972 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-24 15:24:18,264 - com.bml.qa.testScripts.loginPageTest -INFO - Browser launched Successfully
+2018-08-24 15:24:18,360 - com.bml.qa.testScripts.loginPageTest -INFO - Title verified Successfully
+2018-08-24 15:24:18,456 - com.bml.qa.testScripts.loginPageTest -INFO - Logo verified Successfully
+2018-08-24 15:24:18,527 - com.bml.qa.testScripts.loginPageTest -INFO - Username field verified Successfully
+2018-08-24 15:24:18,601 - com.bml.qa.testScripts.loginPageTest -INFO - Forgot Password link verified Successfully
+2018-08-24 15:24:18,668 - com.bml.qa.testScripts.loginPageTest -INFO - Password field verified Successfully
+2018-08-24 15:24:18,739 - com.bml.qa.testScripts.loginPageTest -INFO - SignIn button verified Successfully
+2018-08-24 15:24:20,331 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:24:20,777 - com.bml.qa.testScripts.loginPageTest -INFO - Login functionality verified Successfully
+2018-08-24 15:24:21,618 - com.bml.qa.testScripts.loginPageTest -INFO - Browser closed Successfully
+2018-08-27 17:17:46,170 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:17:46,691 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-27 17:17:46,912 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-27 17:17:47,011 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-27 17:17:47,099 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-27 17:17:47,172 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-27 17:17:47,241 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-27 17:17:47,322 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-27 17:18:37,162 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:18:37,291 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-27 17:18:37,374 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-27 17:18:37,457 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-27 17:18:37,521 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-27 17:18:37,580 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-27 17:18:37,652 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-27 17:18:37,727 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-27 17:19:18,199 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-27 17:19:58,774 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-27 17:22:12,736 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:22:12,860 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-27 17:22:13,872 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:22:26,252 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:22:26,512 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-27 17:22:27,422 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:22:41,571 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:22:41,853 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-27 17:22:43,092 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:22:57,637 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:22:57,774 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-27 17:22:58,589 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:23:13,086 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:23:13,225 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-27 17:23:14,074 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:23:27,578 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:23:27,681 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-27 17:23:28,573 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:23:39,872 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:23:39,996 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-27 17:23:40,860 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:23:54,326 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:24:34,844 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-27 17:24:35,985 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:24:48,599 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:25:29,117 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-27 17:25:30,264 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:25:51,611 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:26:32,547 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-08-27 17:26:33,324 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:26:45,690 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:27:27,355 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:27:47,208 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:28:28,999 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:28:31,322 - com.bml.qa.base.testBase -INFO - Loaded data from Excel to DataProvider
+2018-08-27 17:28:41,968 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:29:22,801 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 17:29:23,622 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:29:34,591 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:30:16,743 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 17:30:17,583 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:30:44,564 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:30:45,729 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:42:20,619 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:42:20,807 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-27 17:42:21,829 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:42:44,174 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:42:44,463 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-27 17:42:45,258 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:42:58,189 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:42:58,348 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-27 17:42:59,203 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:43:19,685 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:43:19,855 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-27 17:43:20,792 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:43:34,777 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:43:34,881 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-27 17:43:35,672 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:43:51,845 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:43:51,946 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-27 17:43:52,819 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:44:03,407 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:44:03,531 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-27 17:44:04,417 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:44:14,799 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:44:55,227 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-27 17:44:56,047 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:45:07,280 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:45:47,874 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-27 17:45:48,638 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:45:58,717 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:46:39,510 - com.bml.qa.base.testBase -INFO - Invalid Password verified Successfully
+2018-08-27 17:46:40,348 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:46:50,914 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:47:31,542 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-08-27 17:47:32,305 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:47:45,996 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:48:27,492 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:48:44,637 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:49:25,335 - com.bml.qa.base.testBase -INFO - Wrong Password error verified Successfully
+2018-08-27 17:49:26,188 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:49:27,469 - com.bml.qa.base.testBase -INFO - Loaded data from Excel to DataProvider
+2018-08-27 17:49:47,489 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:50:28,684 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 17:50:29,544 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:50:42,006 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:51:22,725 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 17:51:23,799 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:51:37,354 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:51:39,091 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:53:35,190 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:53:35,398 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-27 17:53:36,268 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:53:47,595 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:53:47,689 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-27 17:53:48,682 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:54:17,501 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:54:17,608 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-27 17:54:18,463 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:54:33,295 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:54:33,394 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-27 17:54:34,206 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:54:45,522 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:54:45,619 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-27 17:54:46,438 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:54:59,335 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:54:59,437 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-27 17:55:00,265 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:55:15,041 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:55:15,141 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-27 17:55:16,006 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:55:31,401 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:56:11,819 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-27 17:56:12,643 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:56:49,260 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:57:29,737 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-27 17:57:30,550 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:57:41,826 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:58:22,376 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-08-27 17:58:23,181 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:58:39,796 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 17:59:20,637 - com.bml.qa.base.testBase -INFO - Invalid Password verified Successfully
+2018-08-27 17:59:21,735 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 17:59:33,166 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 18:00:14,813 - com.bml.qa.base.testBase -INFO - Wrong User error verified Successfully
+2018-08-27 18:00:15,605 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 18:00:42,080 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 18:01:24,716 - com.bml.qa.base.testBase -INFO - Wrong Password error verified Successfully
+2018-08-27 18:01:25,725 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 18:01:28,349 - com.bml.qa.base.testBase -INFO - Loaded data from Excel to DataProvider
+2018-08-27 18:01:50,645 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 18:02:31,705 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 18:02:32,520 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 18:02:45,456 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 18:03:26,586 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-27 18:03:28,139 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-27 18:03:43,230 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-27 18:03:43,328 - com.bml.qa.base.testBase -INFO - Footer verified Successfully
+2018-08-27 18:03:44,193 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:47:13,029 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:47:16,358 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-28 16:47:23,492 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:47:47,817 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:47:50,043 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-28 16:47:51,161 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:48:12,340 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:48:14,351 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-28 16:48:15,686 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:48:37,239 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:48:38,984 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-28 16:48:40,797 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:49:13,646 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:49:14,155 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-28 16:49:15,119 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:49:39,789 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:49:40,426 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-28 16:49:41,427 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:50:20,587 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:50:21,505 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-28 16:50:22,329 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:50:53,117 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:51:41,792 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-28 16:51:46,003 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:52:46,531 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:53:31,303 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-28 16:53:32,766 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:53:55,203 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:54:36,302 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-08-28 16:54:37,079 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:58:36,495 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:58:37,265 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-08-28 16:58:40,015 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:58:59,476 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:58:59,878 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-08-28 16:59:00,829 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:59:12,964 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:59:13,160 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-08-28 16:59:14,077 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:59:26,379 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:59:26,468 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-08-28 16:59:27,496 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:59:38,210 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:59:38,345 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-08-28 16:59:39,212 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 16:59:51,205 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 16:59:51,299 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-08-28 16:59:52,131 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:00:02,860 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:00:02,948 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-08-28 17:00:04,173 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:00:32,268 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:01:13,107 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-08-28 17:01:13,956 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:01:29,201 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:02:10,136 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-08-28 17:02:11,015 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:02:26,535 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:03:07,365 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-08-28 17:03:08,178 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:03:30,880 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:04:11,608 - com.bml.qa.base.testBase -INFO - Invalid Password verified Successfully
+2018-08-28 17:04:12,549 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:04:23,658 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:05:04,831 - com.bml.qa.base.testBase -INFO - Wrong User error verified Successfully
+2018-08-28 17:05:06,193 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:05:27,170 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:06:10,333 - com.bml.qa.base.testBase -INFO - Wrong Password error verified Successfully
+2018-08-28 17:06:14,997 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:07:52,616 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:08:39,717 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-28 17:08:42,654 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:09:11,193 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:09:52,554 - com.bml.qa.base.testBase -INFO - Login functionality verified Successfully
+2018-08-28 17:09:53,651 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-08-28 17:10:12,222 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-08-28 17:10:15,171 - com.bml.qa.base.testBase -INFO - Footer verified Successfully
+2018-08-28 17:10:15,982 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+<<<<<<< HEAD
+2018-09-20 12:42:23,158 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-20 12:42:23,282 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-20 12:42:25,000 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-20 12:42:40,854 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-20 12:42:40,950 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-20 12:42:41,759 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-20 12:42:54,006 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-20 12:42:54,110 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-20 12:42:54,896 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-20 12:43:05,668 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-20 12:43:05,746 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-20 12:43:06,629 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:08:19,115 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:08:19,390 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-25 16:08:20,772 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:08:47,592 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:08:47,696 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-25 16:08:48,568 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:09:20,289 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:09:20,400 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-25 16:09:21,202 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:09:53,037 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:09:53,126 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-25 16:09:53,922 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:10:25,833 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:10:25,909 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-09-25 16:10:26,687 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:11:10,069 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:11:10,146 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-09-25 16:11:10,929 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:11:37,448 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:11:37,535 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-09-25 16:11:38,301 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:12:01,990 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:12:42,376 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-09-25 16:12:43,255 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:13:07,221 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:13:47,620 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-09-25 16:13:48,418 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:14:18,441 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:14:58,946 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-09-25 16:14:59,738 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:15:32,764 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:16:13,578 - com.bml.qa.base.testBase -INFO - Invalid Password verified Successfully
+2018-09-25 16:16:14,482 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:16:39,592 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:17:20,195 - com.bml.qa.base.testBase -INFO - Wrong User error verified Successfully
+2018-09-25 16:17:21,139 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:17:46,109 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-25 16:18:27,553 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:36:36,229 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 14:36:36,626 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-26 14:36:38,007 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:36:56,609 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 14:36:57,448 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+=======
+2018-09-24 15:25:54,569 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 15:31:37,607 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 15:31:43,897 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:37:00,403 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 15:37:28,971 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:39:24,930 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 15:39:27,712 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:40:38,236 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:47:09,465 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 15:47:17,424 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:48:23,101 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 15:48:25,518 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:49:59,278 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 15:50:03,531 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:51:04,158 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 15:51:05,728 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 15:52:16,956 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:00:16,293 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 16:00:25,518 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:01:26,550 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 16:01:27,946 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:02:28,756 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:09:25,888 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 16:09:31,523 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:10:36,984 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 16:10:42,485 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:12:11,636 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-24 16:12:17,069 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:19:59,613 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 16:20:12,339 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:21:18,901 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 16:21:19,850 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:22:17,828 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-24 16:22:19,569 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:23:24,373 - com.bml.qa.base.testBase -INFO - Email Address field displayed Successfully
+2018-09-24 16:23:25,788 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:28:04,458 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 16:28:06,228 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:28:58,718 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 16:28:59,633 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:30:00,568 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage field message verified Successfully
+2018-09-24 16:30:01,514 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:30:52,835 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-24 16:30:53,650 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:31:44,561 - com.bml.qa.base.testBase -INFO - Email Address field displayed Successfully
+2018-09-24 16:31:45,407 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:32:39,063 - com.bml.qa.base.testBase -INFO - Email Address field data verified Successfully
+2018-09-24 16:32:40,261 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:33:34,717 - com.bml.qa.base.testBase -INFO - Email Address field status verified Successfully
+2018-09-24 16:33:35,585 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:34:30,186 - com.bml.qa.base.testBase -INFO - Email Address field label name  verified Successfully
+2018-09-24 16:34:31,114 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:35:22,589 - com.bml.qa.base.testBase -INFO - Reset Password button  displayed Successfully
+2018-09-24 16:35:23,401 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:36:20,249 - com.bml.qa.base.testBase -INFO - Reset Password button status  verified Successfully
+2018-09-24 16:36:21,070 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 16:37:18,372 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:04:09,251 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-24 17:04:17,441 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:05:15,586 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-24 17:05:16,546 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:06:07,441 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage field message verified Successfully
+2018-09-24 17:06:08,296 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:07:00,237 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-24 17:07:01,250 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:07:54,388 - com.bml.qa.base.testBase -INFO - Email Address field displayed Successfully
+2018-09-24 17:07:55,297 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:09:20,288 - com.bml.qa.base.testBase -INFO - Email Address field data verified Successfully
+2018-09-24 17:09:22,009 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:10:30,636 - com.bml.qa.base.testBase -INFO - Email Address field status verified Successfully
+2018-09-24 17:10:31,917 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:11:30,756 - com.bml.qa.base.testBase -INFO - Email Address field label name  verified Successfully
+2018-09-24 17:11:31,792 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:12:26,363 - com.bml.qa.base.testBase -INFO - Reset Password button  displayed Successfully
+2018-09-24 17:12:27,837 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:13:21,685 - com.bml.qa.base.testBase -INFO - Reset Password button status  verified Successfully
+2018-09-24 17:13:22,581 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:14:55,476 - com.bml.qa.base.testBase -INFO - Without data, Email Address field error message  verified Successfully
+2018-09-24 17:14:58,362 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:16:55,347 - com.bml.qa.base.testBase -INFO - With invalid data, Email Address field error message  verified Successfully
+2018-09-24 17:16:57,532 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:18:44,399 - com.bml.qa.base.testBase -INFO - With wrong data, Email Address field error message  verified Successfully
+2018-09-24 17:18:45,741 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:19:44,747 - com.bml.qa.base.testBase -INFO - Reset Details button  displayed Successfully
+2018-09-24 17:19:45,963 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:20:38,650 - com.bml.qa.base.testBase -INFO - Reset Details button status  verified Successfully
+2018-09-24 17:20:39,647 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 17:22:28,176 - com.bml.qa.base.testBase -INFO - Reset Details func  verified Successfully
+2018-09-24 17:22:37,990 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 18:29:30,673 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 18:33:38,838 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 18:43:26,201 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 18:52:45,072 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-24 19:21:41,191 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 11:39:39,745 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:22:51,123 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-25 12:23:04,592 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:25:23,520 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-25 12:25:26,593 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:27:16,039 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-25 12:27:24,767 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:29:12,918 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage field message verified Successfully
+2018-09-25 12:29:15,715 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:30:57,679 - com.bml.qa.base.testBase -INFO - Email Address field displayed Successfully
+2018-09-25 12:30:59,294 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:33:25,703 - com.bml.qa.base.testBase -INFO - Email Address field data verified Successfully
+2018-09-25 12:33:27,923 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:35:09,090 - com.bml.qa.base.testBase -INFO - Email Address field status verified Successfully
+2018-09-25 12:35:10,396 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:36:56,482 - com.bml.qa.base.testBase -INFO - Email Address field label name  verified Successfully
+2018-09-25 12:36:58,276 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:38:46,580 - com.bml.qa.base.testBase -INFO - Reset Password button  displayed Successfully
+2018-09-25 12:38:47,829 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:40:26,123 - com.bml.qa.base.testBase -INFO - Reset Password button status  verified Successfully
+2018-09-25 12:40:27,420 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:42:14,847 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:47:43,114 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage title verified Successfully
+2018-09-25 12:47:45,004 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:49:32,535 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage logo verified Successfully
+2018-09-25 12:49:40,342 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:52:30,925 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage header verified Successfully
+2018-09-25 12:52:32,608 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:54:05,975 - com.bml.qa.base.testBase -INFO - ForgotPasswordPage field message verified Successfully
+2018-09-25 12:54:07,097 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:55:57,342 - com.bml.qa.base.testBase -INFO - Email Address field displayed Successfully
+2018-09-25 12:55:59,041 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:57:40,686 - com.bml.qa.base.testBase -INFO - Email Address field data verified Successfully
+2018-09-25 12:57:42,122 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 12:59:30,465 - com.bml.qa.base.testBase -INFO - Email Address field status verified Successfully
+2018-09-25 12:59:35,355 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:01:27,014 - com.bml.qa.base.testBase -INFO - Email Address field label name  verified Successfully
+2018-09-25 13:01:29,721 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:03:13,547 - com.bml.qa.base.testBase -INFO - Reset Password button  displayed Successfully
+2018-09-25 13:03:15,089 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:05:16,978 - com.bml.qa.base.testBase -INFO - Reset Password button status  verified Successfully
+2018-09-25 13:05:18,477 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:08:14,992 - com.bml.qa.base.testBase -INFO - Without data, Email Address field error message  verified Successfully
+2018-09-25 13:08:16,205 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:10:48,823 - com.bml.qa.base.testBase -INFO - With invalid data, Email Address field error message  verified Successfully
+2018-09-25 13:10:49,915 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:13:28,264 - com.bml.qa.base.testBase -INFO - With wrong data, Email Address field error message  verified Successfully
+2018-09-25 13:13:30,754 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:16:14,868 - com.bml.qa.base.testBase -INFO - Forgot Password  Popup Title message verified Successfully
+2018-09-25 13:16:16,881 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:18:59,002 - com.bml.qa.base.testBase -INFO - Forgot Password  Popup Text verified Successfully
+2018-09-25 13:19:00,073 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:22:36,126 - com.bml.qa.base.testBase -INFO - Forgot Password  Popup Close with OK button verified Successfully
+2018-09-25 13:22:36,972 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:26:03,004 - com.bml.qa.base.testBase -INFO - Forgot Password  Popup Close with Cross mark verified Successfully
+2018-09-25 13:26:03,817 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:29:40,796 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:35:37,144 - com.bml.qa.base.testBase -INFO - Reset Details func  verified Successfully
+2018-09-25 13:35:40,708 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:37:18,581 - com.bml.qa.base.testBase -INFO - SignIn link  verified Successfully
+2018-09-25 13:37:20,655 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:39:30,120 - com.bml.qa.base.testBase -INFO - SignIn link Status verified Successfully
+2018-09-25 13:39:31,376 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:42:25,458 - com.bml.qa.base.testBase -INFO - SignIn link func verified Successfully
+2018-09-25 13:42:31,146 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 13:46:08,921 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:19:50,881 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 16:21:34,236 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-25 16:24:03,711 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 16:24:05,397 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 16:29:05,873 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 16:29:06,955 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:01:26,259 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 17:01:27,435 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:02:13,322 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-25 17:02:14,540 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:03:40,244 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 17:03:41,893 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:08:57,652 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 17:09:02,124 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:10:15,197 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-25 17:10:16,614 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:11:29,085 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 17:11:30,306 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:12:21,920 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-25 17:12:22,966 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-25 17:14:45,771 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-25 17:16:00,813 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-26 13:51:06,745 - com.bml.qa.base.testBase -INFO - Change PasswordPage title verified Successfully
+2018-09-26 13:51:09,901 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:52:12,020 - com.bml.qa.base.testBase -INFO - Change PasswordPage logo verified Successfully
+2018-09-26 13:52:13,582 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:53:31,657 - com.bml.qa.base.testBase -INFO - Change Password Page header verified Successfully
+2018-09-26 13:53:34,289 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:54:28,357 - com.bml.qa.base.testBase -INFO - Profile Image verified Successfully
+2018-09-26 13:54:34,682 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:55:53,698 - com.bml.qa.base.testBase -INFO - Change Password image verified Successfully
+2018-09-26 13:55:55,314 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:57:01,849 - com.bml.qa.base.testBase -INFO - Profile Image Status verified Successfully
+2018-09-26 13:57:04,056 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:57:58,233 - com.bml.qa.base.testBase -INFO - Change Password Func verified Successfully
+2018-09-26 13:57:59,334 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:58:50,093 - com.bml.qa.base.testBase -INFO - Change Password image status verified Successfully
+2018-09-26 13:58:54,487 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 13:59:51,446 - com.bml.qa.base.testBase -INFO - Old Password field verified Successfully
+2018-09-26 13:59:52,446 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:00:37,559 - com.bml.qa.base.testBase -INFO - Old Password field status verified Successfully
+2018-09-26 14:00:38,886 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:02:26,175 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:12:29,699 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:21:18,851 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:26:07,368 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:36:14,014 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:41:26,517 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 14:55:37,809 - com.bml.qa.base.testBase -INFO - call 1
+2018-09-26 14:55:37,863 - com.bml.qa.base.testBase -INFO - com.aventstack.extentreports.ExtentTest@7096b474
+2018-09-26 14:56:39,791 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:02:29,296 - com.bml.qa.base.testBase -INFO - call 1
+2018-09-26 15:02:29,304 - com.bml.qa.base.testBase -INFO - test:- com.aventstack.extentreports.ExtentTest@3f07b12c
+2018-09-26 15:03:30,789 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:10:01,943 - com.bml.qa.base.testBase -INFO - call 1
+2018-09-26 15:10:01,953 - com.bml.qa.base.testBase -INFO - test:- com.aventstack.extentreports.ExtentTest@3f07b12c
+2018-09-26 15:10:02,016 - com.bml.qa.base.testBase -INFO - label:- Old Password
+2018-09-26 15:10:03,421 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:11:37,023 - com.bml.qa.base.testBase -INFO - call 1
+2018-09-26 15:11:37,031 - com.bml.qa.base.testBase -INFO - test:- com.aventstack.extentreports.ExtentTest@3f07b12c
+2018-09-26 15:11:37,074 - com.bml.qa.base.testBase -INFO - label:- Old Password
+2018-09-26 15:11:37,074 - com.bml.qa.base.testBase -INFO - Old Password field label verified Successfully
+2018-09-26 15:11:38,375 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:12:31,598 - com.bml.qa.base.testBase -INFO - Old Password field verified Successfully
+2018-09-26 15:12:37,083 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:21:37,305 - com.bml.qa.base.testBase -INFO - call 1
+2018-09-26 15:21:37,315 - com.bml.qa.base.testBase -INFO - test:- com.aventstack.extentreports.ExtentTest@3f07b12c
+2018-09-26 15:21:37,395 - com.bml.qa.base.testBase -INFO - label:- Old Password
+2018-09-26 15:21:37,395 - com.bml.qa.base.testBase -INFO - Old Password field label verified Successfully
+2018-09-26 15:21:38,765 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:22:56,006 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:22:56,244 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-26 15:22:57,579 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:23:25,460 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:23:25,645 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-26 15:23:26,813 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:23:51,727 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:23:51,920 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-26 15:23:52,860 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:24:15,296 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:24:15,551 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-26 15:24:16,438 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:24:38,108 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:24:38,325 - com.bml.qa.base.testBase -INFO - Username field label verified Successfully
+2018-09-26 15:24:39,243 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:25:11,427 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:25:11,658 - com.bml.qa.base.testBase -INFO - Username Status field verified Successfully
+2018-09-26 15:25:12,852 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:25:36,170 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:25:36,373 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-09-26 15:25:37,236 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:25:59,697 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:25:59,779 - com.bml.qa.base.testBase -INFO - Forgot Password link status verified Successfully
+2018-09-26 15:26:00,681 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:26:21,524 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:26:21,618 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-09-26 15:26:22,460 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:26:50,756 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:26:50,850 - com.bml.qa.base.testBase -INFO - Password field label verified Successfully
+2018-09-26 15:26:51,799 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:27:22,019 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:27:22,111 - com.bml.qa.base.testBase -INFO - Password field status verified Successfully
+2018-09-26 15:27:23,000 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:27:52,512 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:27:52,604 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-09-26 15:27:53,558 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:28:19,444 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:28:19,535 - com.bml.qa.base.testBase -INFO - SignIn button status verified Successfully
+2018-09-26 15:28:20,634 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:28:44,965 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:28:45,889 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:31:33,656 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:31:33,805 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-26 15:31:35,164 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:32:15,970 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:32:16,060 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-26 15:32:17,015 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:32:43,873 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:32:43,980 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-26 15:32:44,917 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:33:07,715 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:33:07,804 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-26 15:33:08,687 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:33:33,221 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:33:33,316 - com.bml.qa.base.testBase -INFO - Username field label verified Successfully
+2018-09-26 15:33:34,354 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:33:56,927 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:33:57,062 - com.bml.qa.base.testBase -INFO - Username Status field verified Successfully
+2018-09-26 15:33:58,173 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:34:14,477 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:34:14,776 - com.bml.qa.base.testBase -INFO - Forgot Password link verified Successfully
+2018-09-26 15:34:15,609 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:34:46,460 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:34:46,553 - com.bml.qa.base.testBase -INFO - Forgot Password link status verified Successfully
+2018-09-26 15:34:47,495 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:35:12,230 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:35:12,402 - com.bml.qa.base.testBase -INFO - Password field verified Successfully
+2018-09-26 15:35:13,315 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:35:58,588 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:35:58,696 - com.bml.qa.base.testBase -INFO - Password field label verified Successfully
+2018-09-26 15:35:59,714 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:36:58,152 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:37:05,223 - com.bml.qa.base.testBase -INFO - Password field status verified Successfully
+2018-09-26 15:37:07,627 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:37:33,535 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:37:37,953 - com.bml.qa.base.testBase -INFO - SignIn button verified Successfully
+2018-09-26 15:37:39,175 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:38:11,187 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:38:11,571 - com.bml.qa.base.testBase -INFO - SignIn button status verified Successfully
+2018-09-26 15:38:12,984 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:38:52,625 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:39:14,231 - com.bml.qa.base.testBase -INFO - Empty Username error verified Successfully
+2018-09-26 15:39:15,566 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:39:43,872 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:40:05,542 - com.bml.qa.base.testBase -INFO - Empty Password error verified Successfully
+2018-09-26 15:40:06,464 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:40:24,109 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:40:44,762 - com.bml.qa.base.testBase -INFO - Invalid User error verified Successfully
+2018-09-26 15:40:46,011 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:41:15,215 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:41:35,760 - com.bml.qa.base.testBase -INFO - Invalid Password verified Successfully
+2018-09-26 15:41:36,742 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:42:02,471 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:42:23,123 - com.bml.qa.base.testBase -INFO - Wrong User error verified Successfully
+2018-09-26 15:42:24,528 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:42:43,850 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-26 15:43:05,531 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:48:09,359 - com.bml.qa.base.testBase -INFO - Reset Details func  verified Successfully
+2018-09-26 15:48:10,936 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:48:55,245 - com.bml.qa.base.testBase -INFO - SignIn link  verified Successfully
+2018-09-26 15:48:56,173 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:49:52,869 - com.bml.qa.base.testBase -INFO - SignIn link Status verified Successfully
+2018-09-26 15:49:53,732 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-26 15:50:59,009 - com.bml.qa.base.testBase -INFO - SignIn link func verified Successfully
+2018-09-26 15:50:59,920 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+>>>>>>> branch 'Phase-II-Sprint6' of https://github.com/bmlgitramana/BeckerMedia-UI.git
+2018-09-27 11:18:40,467 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:18:40,693 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:18:42,413 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:19:09,322 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:19:09,678 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:19:10,624 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:19:19,149 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:21:06,020 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:21:13,565 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:21:42,194 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:21:42,324 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:21:43,747 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:22:17,157 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:22:17,432 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:22:18,502 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:22:51,472 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:22:51,771 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-27 11:22:52,762 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:23:25,368 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:23:25,667 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-27 11:23:26,579 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:25:23,837 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:25:23,996 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:25:25,364 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:25:59,959 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:26:00,326 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:26:01,280 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:26:30,118 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:26:30,505 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-27 11:26:31,330 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:28:37,670 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:28:37,828 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:28:39,152 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:29:17,326 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:29:17,498 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:29:18,426 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:29:41,508 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:29:41,675 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-27 11:29:42,561 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:30:25,128 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:30:25,293 - com.bml.qa.base.testBase -INFO - Username field verified Successfully
+2018-09-27 11:30:26,153 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:31:09,381 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:31:09,481 - com.bml.qa.base.testBase -INFO - Username field label verified Successfully
+2018-09-27 11:31:10,316 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:32:12,615 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:32:12,724 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:32:14,044 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:32:49,780 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:32:50,048 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:32:50,940 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:34:31,390 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:34:31,511 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:34:32,818 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:34:55,836 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:34:55,996 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:34:56,924 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:35:27,042 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:35:27,181 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-27 11:35:28,062 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:37:00,929 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:37:01,115 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:37:02,601 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:37:28,939 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:37:30,979 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:37:31,955 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:41:12,644 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:41:12,853 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:41:14,565 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:41:37,572 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:41:38,565 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:41:39,472 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:42:16,276 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:42:17,171 - com.bml.qa.base.testBase -INFO - App Header verified Successfully
+2018-09-27 11:42:18,006 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:53:19,652 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:53:20,613 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:53:23,958 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:54:04,005 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:54:05,248 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:55:07,098 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:55:07,217 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:55:08,650 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:55:37,105 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:55:38,157 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:57:56,894 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:57:57,060 - com.bml.qa.base.testBase -INFO - Title verified Successfully
+2018-09-27 11:57:58,671 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 11:58:34,391 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 11:58:35,299 - com.bml.qa.base.testBase -INFO - Logo verified Successfully
+2018-09-27 11:58:36,976 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 13:58:15,036 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 13:58:37,381 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page title verified Successfully
+2018-09-27 13:58:41,062 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 13:59:11,046 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 13:59:32,652 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page logo verified Successfully
+2018-09-27 13:59:33,631 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:00:01,890 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:00:23,773 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page header verified Successfully
+2018-09-27 14:00:24,808 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:00:52,530 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:01:14,168 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu verified Successfully
+2018-09-27 14:01:15,131 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:01:38,474 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:01:59,821 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu status verified Successfully
+2018-09-27 14:02:00,717 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:02:26,405 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:02:48,512 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu func verified Successfully
+2018-09-27 14:02:50,837 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:03:16,066 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:03:37,966 - com.bml.qa.base.testBase -INFO - Leads Menu from Bulk Page verified Successfully
+2018-09-27 14:03:39,070 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:04:06,792 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:04:32,824 - com.bml.qa.base.testBase -INFO - Leads Menu status from Bulk Page verified Successfully
+2018-09-27 14:04:38,702 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:05:13,980 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:05:40,918 - com.bml.qa.base.testBase -INFO - Leads Menu func from Bulk Page verified Successfully
+2018-09-27 14:05:47,258 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:06:55,695 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:07:28,749 - com.bml.qa.base.testBase -INFO - Data Migration Menu from Bulk Page verified Successfully
+2018-09-27 14:07:30,857 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:08:31,369 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:08:52,822 - com.bml.qa.base.testBase -INFO - Data Migration Menu status from Bulk Page verified Successfully
+2018-09-27 14:08:53,766 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:09:18,538 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:09:43,146 - com.bml.qa.base.testBase -INFO - Data Migration Menu func from Bulk Page verified Successfully
+2018-09-27 14:09:44,287 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:10:13,133 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:10:35,244 - com.bml.qa.base.testBase -INFO - IP Config Menu from Bulk Page verified Successfully
+2018-09-27 14:10:36,115 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:11:08,053 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:11:33,502 - com.bml.qa.base.testBase -INFO - IP Config Menu status from Bulk Page verified Successfully
+2018-09-27 14:11:35,327 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:12:10,524 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:12:35,174 - com.bml.qa.base.testBase -INFO - IP Config Menu func from Bulk Page verified Successfully
+2018-09-27 14:12:37,826 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:13:31,800 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:14:04,025 - com.bml.qa.base.testBase -INFO - Manage Users Menu from Bulk Page verified Successfully
+2018-09-27 14:14:05,378 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:14:29,611 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:14:51,144 - com.bml.qa.base.testBase -INFO - Manage Users Menu status from Bulk Page verified Successfully
+2018-09-27 14:14:52,178 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:15:19,964 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:15:42,296 - com.bml.qa.base.testBase -INFO - Manage Users Menu func from Bulk Page verified Successfully
+2018-09-27 14:15:43,601 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:16:17,854 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:16:43,717 - com.bml.qa.base.testBase -INFO - Global dropdown from Bulk Page verified Successfully
+2018-09-27 14:16:44,729 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:17:22,353 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:17:44,721 - com.bml.qa.base.testBase -INFO - Global dropdown  status from Bulk Page verified Successfully
+2018-09-27 14:17:45,769 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:18:17,321 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:18:39,092 - com.bml.qa.base.testBase -INFO - Clients drop down verified Successfully
+2018-09-27 14:18:40,210 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:19:07,416 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:19:29,042 - com.bml.qa.base.testBase -INFO - Clients drop down label verified Successfully
+2018-09-27 14:19:29,893 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:19:52,502 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:20:14,113 - com.bml.qa.base.testBase -INFO - Clients drop down status verified Successfully
+2018-09-27 14:20:15,034 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:20:48,372 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:21:11,609 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:31:33,100 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+<<<<<<< HEAD
+2018-09-27 14:46:28,064 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:46:53,296 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page title verified Successfully
+2018-09-27 14:46:55,671 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:47:24,267 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:47:46,388 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page logo verified Successfully
+2018-09-27 14:47:47,713 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:48:21,656 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:48:48,213 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page header verified Successfully
+2018-09-27 14:48:49,337 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:49:17,776 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:49:39,392 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu verified Successfully
+2018-09-27 14:49:40,491 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:50:07,404 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:50:29,647 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu status verified Successfully
+2018-09-27 14:50:30,600 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:50:52,542 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:51:14,189 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu func verified Successfully
+2018-09-27 14:51:15,151 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:51:53,353 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:52:16,430 - com.bml.qa.base.testBase -INFO - Leads Menu from Bulk Page verified Successfully
+2018-09-27 14:52:17,715 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:52:54,121 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:53:16,205 - com.bml.qa.base.testBase -INFO - Leads Menu status from Bulk Page verified Successfully
+2018-09-27 14:53:17,201 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:53:45,037 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:54:07,076 - com.bml.qa.base.testBase -INFO - Leads Menu func from Bulk Page verified Successfully
+2018-09-27 14:54:07,950 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:54:42,443 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:55:03,962 - com.bml.qa.base.testBase -INFO - Data Migration Menu from Bulk Page verified Successfully
+2018-09-27 14:55:04,872 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:55:26,219 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:55:47,679 - com.bml.qa.base.testBase -INFO - Data Migration Menu status from Bulk Page verified Successfully
+2018-09-27 14:55:48,546 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:56:20,294 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:56:42,078 - com.bml.qa.base.testBase -INFO - Data Migration Menu func from Bulk Page verified Successfully
+2018-09-27 14:56:43,010 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:57:12,489 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:57:35,077 - com.bml.qa.base.testBase -INFO - IP Config Menu from Bulk Page verified Successfully
+2018-09-27 14:57:35,968 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:58:02,478 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:58:24,283 - com.bml.qa.base.testBase -INFO - IP Config Menu status from Bulk Page verified Successfully
+2018-09-27 14:58:25,334 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:58:57,254 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 14:59:19,005 - com.bml.qa.base.testBase -INFO - IP Config Menu func from Bulk Page verified Successfully
+2018-09-27 14:59:19,836 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 14:59:43,455 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:00:05,086 - com.bml.qa.base.testBase -INFO - Manage Users Menu from Bulk Page verified Successfully
+2018-09-27 15:00:05,919 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:00:29,826 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:00:51,167 - com.bml.qa.base.testBase -INFO - Manage Users Menu status from Bulk Page verified Successfully
+2018-09-27 15:00:52,117 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:01:32,000 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:01:57,210 - com.bml.qa.base.testBase -INFO - Manage Users Menu func from Bulk Page verified Successfully
+2018-09-27 15:02:03,400 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:02:48,224 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:03:13,808 - com.bml.qa.base.testBase -INFO - Global dropdown from Bulk Page verified Successfully
+2018-09-27 15:03:16,851 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:03:57,483 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:04:18,990 - com.bml.qa.base.testBase -INFO - Global dropdown  status from Bulk Page verified Successfully
+2018-09-27 15:04:20,086 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:05:00,502 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:05:31,803 - com.bml.qa.base.testBase -INFO - Clients drop down verified Successfully
+2018-09-27 15:05:40,496 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:06:14,020 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:06:36,795 - com.bml.qa.base.testBase -INFO - Clients drop down label verified Successfully
+2018-09-27 15:06:42,975 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:07:44,719 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:08:12,397 - com.bml.qa.base.testBase -INFO - Clients drop down status verified Successfully
+2018-09-27 15:08:14,068 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:09:55,722 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:10:18,710 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:16:17,050 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:17:05,405 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:20:14,474 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:20:44,114 - com.bml.qa.base.testBase -INFO - Clients drop down default data verified Successfully
+2018-09-27 15:20:46,271 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:21:17,926 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:21:40,661 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:24:05,632 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:24:29,403 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:26:37,520 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:27:06,700 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:28:22,844 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:28:49,220 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:30:19,471 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:30:44,476 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:32:34,732 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:32:57,687 - com.bml.qa.base.testBase -INFO - Data Selection from drop down verified Successfully
+2018-09-27 15:32:59,629 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:33:26,229 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:33:48,202 - com.bml.qa.base.testBase -INFO - Clients drop down data verified Successfully
+2018-09-27 15:33:49,745 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:36:02,019 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:36:40,764 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:40:59,826 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:41:38,161 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:43:58,723 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:44:24,495 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:48:16,005 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:49:00,250 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-27 15:50:53,378 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-27 15:51:50,692 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+=======
+2018-09-27 15:04:12,055 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+>>>>>>> branch 'Phase-II-Sprint6' of https://github.com/bmlgitramana/Appshark-LMS.git
+2018-09-28 10:56:59,837 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 10:57:26,004 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:13:08,373 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:13:32,879 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:40:43,979 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:41:12,510 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:45:38,608 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:46:24,884 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 11:46:26,451 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:48:32,934 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:49:08,779 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 11:49:11,462 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:50:56,706 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:51:24,401 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 11:51:25,661 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 11:54:04,060 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 11:54:35,342 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 11:54:37,712 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 12:56:23,384 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 12:58:26,482 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:00:13,420 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:01:49,553 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:05:29,494 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:06:19,781 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 13:06:21,368 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:08:16,985 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:09:11,758 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 13:09:14,582 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:25:19,192 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:27:23,235 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:29:07,911 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:31:07,070 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:32:54,627 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:34:14,915 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:36:19,068 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:42:46,649 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:43:29,869 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 13:43:40,000 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 13:44:23,044 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 13:44:47,707 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:13:23,052 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:15:09,460 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:19:15,257 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:20:30,423 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-09-28 14:20:33,137 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:21:12,115 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:21:35,062 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:24:04,017 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:42:45,956 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:43:09,475 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:47:02,528 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:47:26,379 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:49:13,615 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:49:36,772 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:53:22,271 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:53:45,625 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 14:58:30,704 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 14:58:53,611 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:01:36,853 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:02:00,057 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:05:59,687 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:07:25,986 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:10:02,884 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:11:26,948 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:13:17,099 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:14:44,553 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:16:24,284 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:21:04,006 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:28:20,677 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:32:35,921 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:35:41,192 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:40:28,189 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:44:59,392 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:46:29,586 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:47:19,449 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:50:09,517 - com.bml.qa.base.testBase -INFO - Clients drop down data verified Successfully
+2018-09-28 15:51:16,356 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 15:52:38,984 - com.bml.qa.base.testBase -INFO - Clients drop down data verified Successfully
+2018-09-28 15:52:46,920 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-09-28 15:59:37,630 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-09-28 16:01:51,894 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-01 11:26:58,153 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 13:55:08,882 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 13:56:18,322 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page title verified Successfully
+2018-10-03 13:56:41,517 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 13:59:07,081 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 13:59:46,021 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page logo verified Successfully
+2018-10-03 13:59:51,878 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:00:48,489 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:01:11,255 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page header verified Successfully
+2018-10-03 14:01:13,438 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:02:05,204 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:02:36,205 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu verified Successfully
+2018-10-03 14:02:38,847 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:04:36,736 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:05:39,047 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu status verified Successfully
+2018-10-03 14:05:48,232 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:07:22,752 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:08:17,732 - com.bml.qa.base.testBase -INFO - Bulk Lead Update page menu func verified Successfully
+2018-10-03 14:08:23,502 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:10:14,863 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:11:10,532 - com.bml.qa.base.testBase -INFO - Leads Menu from Bulk Page verified Successfully
+2018-10-03 14:11:26,312 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:12:22,969 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:13:09,807 - com.bml.qa.base.testBase -INFO - Leads Menu status from Bulk Page verified Successfully
+2018-10-03 14:13:18,857 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:14:21,186 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:14:46,191 - com.bml.qa.base.testBase -INFO - Leads Menu func from Bulk Page verified Successfully
+2018-10-03 14:14:47,548 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:15:36,173 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:16:08,716 - com.bml.qa.base.testBase -INFO - Data Migration Menu from Bulk Page verified Successfully
+2018-10-03 14:16:11,253 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:16:57,061 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:17:33,049 - com.bml.qa.base.testBase -INFO - Data Migration Menu status from Bulk Page verified Successfully
+2018-10-03 14:17:35,873 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:18:57,779 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:19:25,022 - com.bml.qa.base.testBase -INFO - Data Migration Menu func from Bulk Page verified Successfully
+2018-10-03 14:19:27,887 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:20:57,773 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:21:41,804 - com.bml.qa.base.testBase -INFO - IP Config Menu from Bulk Page verified Successfully
+2018-10-03 14:21:48,652 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:23:37,607 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:24:49,626 - com.bml.qa.base.testBase -INFO - IP Config Menu status from Bulk Page verified Successfully
+2018-10-03 14:24:53,510 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:26:10,446 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:26:49,837 - com.bml.qa.base.testBase -INFO - IP Config Menu func from Bulk Page verified Successfully
+2018-10-03 14:26:59,854 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:28:04,954 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:28:29,042 - com.bml.qa.base.testBase -INFO - Manage Users Menu from Bulk Page verified Successfully
+2018-10-03 14:28:33,253 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:29:17,822 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:29:43,915 - com.bml.qa.base.testBase -INFO - Manage Users Menu status from Bulk Page verified Successfully
+2018-10-03 14:29:48,732 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:30:49,808 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:31:50,231 - com.bml.qa.base.testBase -INFO - Manage Users Menu func from Bulk Page verified Successfully
+2018-10-03 14:31:59,560 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:34:43,759 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:35:47,026 - com.bml.qa.base.testBase -INFO - Global dropdown from Bulk Page verified Successfully
+2018-10-03 14:35:53,570 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:36:59,174 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:37:39,073 - com.bml.qa.base.testBase -INFO - Global dropdown  status from Bulk Page verified Successfully
+2018-10-03 14:37:48,935 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:38:48,210 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:39:49,345 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 14:39:59,796 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 14:40:53,281 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 14:42:30,578 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:02:41,498 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:03:11,478 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 15:03:17,314 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:03:51,389 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:04:14,005 - com.bml.qa.base.testBase -INFO - Click to Browse link verified Successfully
+2018-10-03 15:04:15,631 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:04:44,875 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:05:06,780 - com.bml.qa.base.testBase -INFO - Process Leads button verified Successfully
+2018-10-03 15:05:08,088 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:05:36,284 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:05:58,596 - com.bml.qa.base.testBase -INFO - Bulk Leads Update page footer message verified Successfully
+2018-10-03 15:06:00,576 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:06:25,192 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:06:55,151 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:09:02,587 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:09:38,599 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 15:09:46,909 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:10:20,889 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:10:43,913 - com.bml.qa.base.testBase -INFO - Click to Browse link verified Successfully
+2018-10-03 15:10:45,313 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:11:14,676 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:11:37,272 - com.bml.qa.base.testBase -INFO - Process Leads button verified Successfully
+2018-10-03 15:11:38,325 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:12:05,554 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:12:28,580 - com.bml.qa.base.testBase -INFO - Bulk Leads Update page footer message verified Successfully
+2018-10-03 15:12:29,785 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:13:01,537 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:13:25,531 - com.bml.qa.base.testBase -INFO - Cancel button status verified Successfully
+2018-10-03 15:13:30,371 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:14:10,178 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:14:36,505 - com.bml.qa.base.testBase -INFO - Click to Browse link status with Select Client verified Successfully
+2018-10-03 15:14:37,867 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:15:08,512 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:15:32,765 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:30:53,249 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:31:40,229 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 15:31:48,368 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:33:22,641 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:34:09,557 - com.bml.qa.base.testBase -INFO - Click to Browse link verified Successfully
+2018-10-03 15:34:26,586 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:36:06,064 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:37:01,770 - com.bml.qa.base.testBase -INFO - Process Leads button verified Successfully
+2018-10-03 15:37:08,069 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:38:00,718 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:38:30,420 - com.bml.qa.base.testBase -INFO - Bulk Leads Update page footer message verified Successfully
+2018-10-03 15:38:36,019 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:39:26,278 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:40:10,285 - com.bml.qa.base.testBase -INFO - Cancel button status verified Successfully
+2018-10-03 15:40:17,381 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:41:08,314 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:41:46,912 - com.bml.qa.base.testBase -INFO - Click to Browse link status with Select Client verified Successfully
+2018-10-03 15:41:53,506 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:42:50,552 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:43:14,966 - com.bml.qa.base.testBase -INFO - Error message without enter dropdown data verified Successfully
+2018-10-03 15:43:22,018 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:44:06,588 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:44:34,051 - com.bml.qa.base.testBase -INFO - Error message without upload file verified Successfully
+2018-10-03 15:44:36,668 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 15:45:14,357 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 15:45:39,781 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 16:10:24,958 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 16:11:43,491 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 16:12:00,699 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:07:42,466 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:08:05,210 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-10-03 17:08:07,065 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:08:50,621 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:09:13,705 - com.bml.qa.base.testBase -INFO - Click to Browse link verified Successfully
+2018-10-03 17:09:14,618 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:09:48,461 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:10:11,864 - com.bml.qa.base.testBase -INFO - Process Leads button verified Successfully
+2018-10-03 17:10:13,664 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:10:45,006 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:11:08,675 - com.bml.qa.base.testBase -INFO - Bulk Leads Update page footer message verified Successfully
+2018-10-03 17:11:11,233 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:11:52,156 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:12:14,651 - com.bml.qa.base.testBase -INFO - Cancel button status verified Successfully
+2018-10-03 17:12:15,554 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:12:41,968 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:13:06,666 - com.bml.qa.base.testBase -INFO - Click to Browse link status with Select Client verified Successfully
+2018-10-03 17:13:08,519 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:14:05,592 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:14:28,525 - com.bml.qa.base.testBase -INFO - Error message without enter dropdown data verified Successfully
+2018-10-03 17:14:29,973 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:15:17,562 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:15:45,215 - com.bml.qa.base.testBase -INFO - Error message without upload file verified Successfully
+2018-10-03 17:15:47,556 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:16:24,331 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:16:49,710 - com.bml.qa.base.testBase -INFO - Process Leads button status verified Successfully
+2018-10-03 17:16:51,921 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:17:23,344 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:17:45,559 - com.bml.qa.base.testBase -INFO - Clients drop down default data verified Successfully
+2018-10-03 17:17:46,532 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-10-03 17:18:15,870 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-10-03 17:19:17,635 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-10-03 17:19:21,292 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:39:19,947 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:52:36,067 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:52:57,829 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-12-08 11:52:59,522 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:53:37,611 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:53:59,298 - com.bml.qa.base.testBase -INFO - Click to Browse link verified Successfully
+2018-12-08 11:54:00,284 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:54:21,962 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:54:43,590 - com.bml.qa.base.testBase -INFO - Process Leads button verified Successfully
+2018-12-08 11:54:44,488 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:55:04,552 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:55:26,210 - com.bml.qa.base.testBase -INFO - Bulk Leads Update page footer message verified Successfully
+2018-12-08 11:55:27,211 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:55:48,114 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:56:09,527 - com.bml.qa.base.testBase -INFO - Cancel button status verified Successfully
+2018-12-08 11:56:10,422 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:56:32,541 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:56:54,742 - com.bml.qa.base.testBase -INFO - Click to Browse link status with Select Client verified Successfully
+2018-12-08 11:56:55,721 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:57:14,608 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:57:36,114 - com.bml.qa.base.testBase -INFO - Error message without enter dropdown data verified Successfully
+2018-12-08 11:57:37,103 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:57:58,130 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:58:19,597 - com.bml.qa.base.testBase -INFO - Error message without upload file verified Successfully
+2018-12-08 11:58:20,486 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:58:39,760 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:59:01,137 - com.bml.qa.base.testBase -INFO - Process Leads button status verified Successfully
+2018-12-08 11:59:02,124 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 11:59:20,346 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 11:59:42,196 - com.bml.qa.base.testBase -INFO - Clients drop down default data verified Successfully
+2018-12-08 11:59:43,212 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 12:00:05,488 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 12:00:50,015 - com.bml.qa.base.testBase -INFO - file upload verified Successfully
+2018-12-08 12:00:50,875 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 15:30:42,968 - com.bml.qa.base.testBase -INFO - Browser launched Successfully
+2018-12-08 15:31:10,180 - com.bml.qa.base.testBase -INFO - Cancel button verified Successfully
+2018-12-08 15:31:12,633 - com.bml.qa.base.testBase -INFO - Browser closed Successfully
+2018-12-08 15:31:36,804 - com.bml.qa.base.testBase -INFO - Browser launched Successfully

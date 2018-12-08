@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Chrome Test(failed)">
+    <classes>
+      <class name="com.bml.qa.testScripts.bulkLeadUpdatePageTest">
+        <methods>
+          <include name="verifyCancelButtonStatus"/>
+          <include name="verifyClientsDropdownDefaultData"/>
+          <include name="verifyProcessLeadsfieldStatus"/>
+          <include name="verifyBulkLeadUpdatePageFooter"/>
+          <include name="verifyClicktoBrowsefield"/>
+          <include name="verifyClicktoBrowsefieldStatuswithSelectClient"/>
+          <include name="setUp"/>
+          <include name="getResults"/>
+          <include name="verifyErrormessagewithoutenterDropdownData"/>
+          <include name="verifyProcessLeadsfield"/>
+          <include name="verifyFileUpload"/>
+          <include name="verifyErrormessagewithoutuploadfile"/>
+        </methods>
+      </class> <!-- com.bml.qa.testScripts.bulkLeadUpdatePageTest -->
+    </classes>
+  </test> <!-- Chrome Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

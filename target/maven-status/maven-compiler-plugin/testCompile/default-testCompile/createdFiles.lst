@@ -1,0 +1,8 @@
+com\bml\qa\testScripts\forgotPasswordPageTest.class
+com\bml\qa\testScripts\bulkLeadUpdatePageTest.class
+com\bml\qa\testScripts\dataMigrationPageTest.class
+com\bml\qa\testScripts\manageUsersPageTest.class
+com\bml\qa\testScripts\leadsPageTest.class
+com\bml\qa\testScripts\loginPageTest.class
+com\bml\qa\testScripts\changePasswordPageTest.class
+com\bml\qa\testScripts\ipConfigurationPageTest.class
